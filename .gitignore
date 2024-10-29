@@ -1,0 +1,11 @@
+# Ignore Virtual Environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore DS_Store files
+.DS_Store
+
+# Ignore config.py
+config.py
